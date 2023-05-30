@@ -1,8 +1,11 @@
-# Sample Hardhat Project
+# Bounty Platform
+This project contains the bounty smart contract. Written in solidity.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Smart Contract Address
+0x58013085853A34e8a66D3E6900d0b0289e063B7f
 
-Try running some of the following tasks:
+# Smart Contract ABI
+To access the ABI navigate to `artifacts/contracts/BountyPlatform.json`
 
 ```shell
 npx hardhat help

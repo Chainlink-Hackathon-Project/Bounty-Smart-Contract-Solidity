@@ -2,7 +2,7 @@
 
 pragma solidity >=0.8.18 <0.9.0;
 
-contract BountyDapp {
+contract BountyPlatform {
 
     uint256 organisationCount;
     uint256 bountyCount;
